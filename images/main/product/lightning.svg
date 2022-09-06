@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 48" width="30" height="48">
+	<title>lightning</title>
+	<defs>
+		<image  width="30" height="48" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAwAQMAAAA8WFinAAAAAXNSR0IB2cksfwAAAAZQTFRFAAAA////pdmf3QAAAAJ0Uk5TAP9bkSK1AAAAkUlEQVR4nD3PsQnDMBQE0BMCq4sWMPYaKQReS5AiniDeILMopMgav0v7u7gw2HeFg/hPzddxAhBnAElkMf6ZxE38OOFL4uckPfTgQgZRxHUgtSdOgpHYeoVPq9iQMW7gVkUBVl5wnmDYLTbszhp3zwwwRVkRXArNycvIu6mAWGahPk/10W6qwtXMRDs/pUh0nANL5y11DdXtKAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>
